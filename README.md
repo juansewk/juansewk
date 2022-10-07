@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Juan Sebastian Cruz and I'm a software engineer.
+- 👋 Hi, I’m Juan Sebastian Cruz and I'm a software engineer. https://www.linkedin.com/in/jsebastianwrc/
 - 👀 I’m interested in software architecture and artificial intelligence.
 - 🌱 I’m currently learning DotNET technologies.
 - 💞️ I’m looking to collaborate on projects with good practices and great technological challenges.
